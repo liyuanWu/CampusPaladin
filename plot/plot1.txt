@@ -1,0 +1,18 @@
+@role
+all
+@stable 
+false 
+@locationable
+true
+@location
+0 22 42 
+@littleGamable 
+false
+@talkable
+true
+@talkNumber
+0
+@choicable
+false
+@changeOfMoney
+50

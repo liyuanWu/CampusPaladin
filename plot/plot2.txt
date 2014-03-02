@@ -1,0 +1,18 @@
+@role
+all
+@stable
+false 
+@locationable
+True
+@location
+7 33 23
+@littleGamable 
+true
+@littleGame
+5
+@talkable
+false
+@choicable
+false
+@changeOfMoney
+0

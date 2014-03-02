@@ -1,0 +1,9 @@
+panel  game
+1      main   yes
+2      puzzle  yes
+3      run     no
+4      dd      no
+5      beatTable yes
+6      eatBean   yes
+7      nineRooms  no
+8      tank     yes
